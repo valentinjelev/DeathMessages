@@ -1,0 +1,6 @@
+name: DeathMessages
+version: '${project.version}'
+main: me.codedcrown.deathmessages.DeathMessages
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: A simple minecraft death messages plugin.
